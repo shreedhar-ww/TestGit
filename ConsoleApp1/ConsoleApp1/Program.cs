@@ -17,6 +17,7 @@ namespace ConsoleApp1
 
             Console.WriteLine("Hello World! by sonali satre");
 
+            Console.WriteLine("i have writtent incorrect code.");
 
             Console.WriteLine("Hello World! by shreedhar deshwal");
             // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
