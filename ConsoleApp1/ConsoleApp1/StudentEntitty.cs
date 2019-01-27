@@ -8,5 +8,6 @@ namespace ConsoleApp1
 {
     class StudentEntitty
     {
+        public string fname { get; set; }
     }
 }

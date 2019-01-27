@@ -8,5 +8,6 @@ namespace ConsoleApp1
 {
     class EmployeeEntity
     {
+        public string name { get; set; }
     }
 }
