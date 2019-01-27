@@ -17,6 +17,7 @@ namespace ConsoleApp1
 
             Console.WriteLine("Hello World! by sonali satre");
 
+            Console.WriteLine("i have writtent incorrect code.");
 
             Console.WriteLine("Hello World! by shreedhar deshwal");
 
