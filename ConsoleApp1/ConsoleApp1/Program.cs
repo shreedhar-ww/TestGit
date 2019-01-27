@@ -30,6 +30,11 @@ namespace ConsoleApp1
             Console.WriteLine("conflicting with shreedhar 28");
             Console.WriteLine("conflicting with shreedhar 29");
             Console.WriteLine("conflicting with shreedhar 30");
+
+            Console.WriteLine("conflicting with Sonal 34");
+            Console.WriteLine("conflicting with Sonal 35");
+            Console.WriteLine("conflicting with Sonal 36");
+            Console.WriteLine("conflicting with Sonal 37");
         }
     }
 }
